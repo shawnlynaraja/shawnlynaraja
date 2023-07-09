@@ -2,6 +2,10 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>VM and Remote Desktop Set Up</b>
+  - [Azure: Setting up Virtual Machine](https://github.com/shawnlynaraja/vm-set-up)
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/shawnlynaraja/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/shawnlynaraja/post-install-config)
