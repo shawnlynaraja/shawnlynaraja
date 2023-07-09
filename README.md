@@ -4,6 +4,8 @@
 
 - <b>VM and Remote Desktop Set Up</b>
   - [Azure: Setting up Virtual Machine](https://github.com/shawnlynaraja/vm-set-up)
+  - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/shawnlynaraja/remote-desktop)
+
 
 
 - <b>osTicket (Help Desk Ticketing System)</b>
