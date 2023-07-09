@@ -7,14 +7,13 @@
   - [Microsoft Remote Desktop: Setting up with Azure VM](https://github.com/shawnlynaraja/remote-desktop)
 
 
-
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/shawnlynaraja/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/shawnlynaraja/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/shawnlynaraja/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/shawnlynaraja/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shawnlynaraja/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/shawnlynaraja/azure-nsg)
 
 <h2>🤳Connect with me:</h2>
 
